@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    size: 300;
+}
+.African{
+    background-color: brown;
+   width: 150px;
+   height: 150px;}
+
+
+.Ethiopic circular:hover{
+    background-color:red!important;}
+    
+
+.Ethiopic {
+    background-color: brown;
+    width: 150px;
+    height: 150px;}
+
+
+
+    .circular{
+     border-radius: 80%;
+    }
